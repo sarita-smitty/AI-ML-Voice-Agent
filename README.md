@@ -18,11 +18,11 @@ The workflow includes multiple conversation branches to guide users based on the
 
 ## Reflection Questions
 
-### 1. What did you learn from building this voice agent?
-I learned how conversation workflows and branching logic help guide users through different types of questions. I also learned how to structure AI responses to sound more natural and helpful.
+### 1. Branch Design Challenge
+The most challenging part of designing the conversation branches was making sure the agent routed users to the correct workflow based on what they asked. During testing, I learned that voice agents can sometimes misunderstand vague questions, so the branch labels and prompts needed to be more specific. I also discovered that conversation flow design is important because users may jump between topics like pricing, scheduling, and lesson information naturally during a conversation.
 
-### 2. What challenges did you encounter?
-One challenge was configuring the workflow branches correctly and making sure the agent routed users to the proper conversation path. Testing the agent and refining responses also took time.
+### 2. Knowledge Base Impact
+The knowledge base content helped the agent provide more accurate and detailed responses about lesson pricing, scheduling, and getting started with lessons. I noticed that short, clear information worked better than long paragraphs because the agent responded more naturally and stayed focused on the user’s question. Specific pricing and lesson details were especially helpful for improving response quality.
 
-### 3. How could this type of AI agent be useful in business?
-This type of AI agent could help businesses answer common customer questions automatically, save time, improve customer support, and assist users outside normal business hours.
+### 3. Real-World Application
+This type of voice agent could be very useful for small businesses like music schools or tutoring companies. It could answer common customer questions, explain services, provide pricing information, and help new students get started even outside normal business hours. This would save time for staff while improving customer support and accessibility.
